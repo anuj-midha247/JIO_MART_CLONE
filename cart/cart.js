@@ -31,18 +31,18 @@ if (localStorage.getItem("cartitems") !== null && JSON.parse(localStorage.getIte
     let n = document.createElement('div');
     n.textContent = product.quantity;
 
-    quan.textContent = 'Quantity'
+    
     Name.textContent = "Name of Product: " + product.detail;
     Price.textContent = "Price: " + product.price;
     d.append(Name, btn);
-    quan.append(n)
+   
     btn.innerText = "Remove";
     btn.style.width = "50%"
     btn.style.border = "none"
     btn.onclick = function () {
       removeEle(product);
     }
-    divC.append(image, d, Price, quan);
+    divC.append(image, d, Price);
     con.append(divC);
 
     let actPrice = document.getElementById("pRc");
