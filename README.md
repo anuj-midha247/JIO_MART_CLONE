@@ -39,7 +39,7 @@ We have tried to clone website named JioMart a online shopping website so we as 
 
 
 ## Conclusion 📑
-In this project we have   tried to achieve a near to perfect clone of the original website as much as possible. This entire journey of this construct week has given us experiences and we have learned lots of things by applying to the real website and it gave us a lot of confidence. Most of the features are added and functionality of the website is achieved.
+In this project we have   tried to achieve a near to perfect clone of the original website as much as possible. This entire journey of this construct week has given us experiences and we have learned lots of new things by applying to the real website and it gave us a lot of confidence. Most of the features are added and functionality of the website is achieved.
 
 ## Limitations
 All pages are not responsive yet , those pages  might not be properly visible on small screen devices.
