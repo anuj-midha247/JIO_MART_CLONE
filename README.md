@@ -8,6 +8,8 @@ Original-Website: https://www.jiomart.com/
 
 Cloned-Website: https://github.com/anuj-midha247/JIO_MART_CLONE
 
+For Demo visit this link :- https://frolicking-cucurucho-825dc6.netlify.app/
+
 JIoMart is an E-commerce market place for online groceries, home essentials, electronics, fashion and many more.
 
 # Technology Stack Used 🌟
@@ -41,6 +43,10 @@ In this project we have   tried to achieve a near to perfect clone of the origin
 
 ## Limitations
 All pages are not responsive yet , those pages  might not be properly visible on small screen devices.
+
+## ScreenShorts 
+
+<a href='https://www.linkpicture.com/view.php?img=LPic631b64935346f1439405493'><img src='https://www.linkpicture.com/q/Screenshot-393_2.png' type='image'></a>
  
  
 
