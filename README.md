@@ -54,9 +54,20 @@ Sign-in Page
 
 <a href='https://www.linkpicture.com/view.php?img=LPic631b64935346f1439405493'><img src='https://www.linkpicture.com/q/Screenshot-394_2.png' type='image'></a>
 
+Sign-up Page
+
+<a href='https://www.linkpicture.com/view.php?img=LPic631b67ed60477802202526'><img src='https://www.linkpicture.com/q/Screenshot-396_1.png' type='image'></a>
+
 Cart-Page
 
 <a href='https://www.linkpicture.com/view.php?img=LPic631b64935346f1439405493'><img src='https://www.linkpicture.com/q/Screenshot-395_1.png' type='image'></a>
- 
+
+Payment page
+
+<a href='https://www.linkpicture.com/view.php?img=LPic631b67ed60477802202526'><img src='https://www.linkpicture.com/q/Screenshot-397_1.png' type='image'></a>
+
+Checkout page
+
+ <a href='https://www.linkpicture.com/view.php?img=LPic631b67ed60477802202526'><img src='https://www.linkpicture.com/q/Screenshot-398_1.png' type='image'></a>
  
 
