@@ -15,10 +15,11 @@ if ((localStorage.getItem("signedIUser") != null) && (JSON.parse(localStorage.ge
         {
             ddl2.textContent = 'SIGN OUT'
            ddl2.style.padding = '5px'
-           ddl2.style.backgroundColor = 'indigo'
+           ddl2.style.backgroundColor = 'white'
+           ddl2.style.cursor='pointer'
            ddl2.onclick = ()=>{
              localStorage.setItem('signedIUser',null);
-             localStorage.setItem("jioUserCart", JSON.stringify(arr));
+             localStorage.setItem("cartitems", JSON.stringify(arr));
              window.location.href = 'Index.html'
            }
         }else{
