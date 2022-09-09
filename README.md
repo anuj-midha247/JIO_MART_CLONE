@@ -46,7 +46,10 @@ All pages are not responsive yet , those pages  might not be properly visible on
 
 ## ScreenShorts 
 
+Home-Page/ Landing Page
 <a href='https://www.linkpicture.com/view.php?img=LPic631b64935346f1439405493'><img src='https://www.linkpicture.com/q/Screenshot-393_2.png' type='image'></a>
+
+<a href='https://www.linkpicture.com/view.php?img=LPic631b64935346f1439405493'><img src='https://www.linkpicture.com/q/Screenshot-394_2.png' type='image'></a>
  
  
 
